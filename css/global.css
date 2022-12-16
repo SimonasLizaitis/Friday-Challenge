@@ -2,10 +2,10 @@
     --main-color: #EBEEF5;
     --secondary-color: #F7F6FF;
     --third-color: #C4C4C4;
-    --main-font-family: 'Montserrat';
-    --main-font-style: normal;
-    --main-font-weight: 500;
-    --main-font-size: 16px;
-    --main-line-height: 20px;
+    --fourth-color: #02577A;
+    
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
