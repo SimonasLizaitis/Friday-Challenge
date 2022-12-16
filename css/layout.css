@@ -1,5 +1,5 @@
 .body {
-    display: inline;
+    display: flex;
     background-color: var(--main-color);
     margin: 0;
 }
@@ -62,8 +62,7 @@
     display: flex;
     justify-content: center;
     width: 346.01px;
-    margin-right: 546.99;
-    margin-left: 547px;
+    margin-left: 341px;
     padding-top: 11px;
     color: var(--fourth-color);
     font-family: 'Montserrat';
@@ -72,4 +71,6 @@
     font-size: 11px;
     line-height: 13px;
     border-top: 1px solid var(--fourth-color);
+    position: relative;
+    top: 879px;
 }
