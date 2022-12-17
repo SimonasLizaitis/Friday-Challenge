@@ -80,6 +80,13 @@
     margin-top: 16px;
 }
 
+.icon {
+    justify-self: center;
+}
+
+.pad {
+    padding-left: 11.5px;
+}
 
 .home {
     display: grid;
